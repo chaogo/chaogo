@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Chao
-- 🌱 I’m currently learning skills related to back-end development.
+- 👋 Hi, I’m Chao
+- 🌱 I’m a recent graduate with a degree in CS field.
 - 👀 I’m looking for a full-time SDE position.
 
 <!---
