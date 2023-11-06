@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Chao!
 - 🎓 I recently graduated with dual master's degrees in data science and hold a bachelor's degree in computer science.
 - 🏢 I'm currently working as an IT development engineer at a Dutch bank.
-- ❤️ My passions lie in data science, software development, and quantitative finance.
-- 🔍 I'm seeking a new job that will challenge me and foster my continued growth and improvement.
+- 🔍 I'm seeking a software engineer job that will challenge me and foster my continued growth and improvement.
 
 
 <!---
